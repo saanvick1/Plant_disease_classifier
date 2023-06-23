@@ -63,6 +63,9 @@ Once the CNN model is trained, it can be used for inference on new, unseen image
 Dataset
 The Imagente dataset used in this project contains various classes of potato leaves, including healthy leaves and leaves affected by different diseases or pests. The dataset is labeled, providing ground truth for each image. Make sure to adhere to the dataset's licensing and usage terms.
 
+![image](https://github.com/saanvick1/Plant_disease_classifier/assets/95539800/144e9194-55bd-4e91-978e-f3e2419da991)
+
+
 Acknowledgments
 The Jetson Inference library: https://github.com/dusty-nv/jetson-inference
 The  dataset: [https://www.kaggle.com/datasets/alyeko/potato-tomato-dataset]
