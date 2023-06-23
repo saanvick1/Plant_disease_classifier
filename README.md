@@ -1,6 +1,10 @@
 Potato Leaves Classification Project
+
+![Corn_Common_Rust (994)](https://github.com/saanvick1/Plant_disease_classifier/assets/95539800/15ed6071-0052-4486-bc1d-0ab71876031e)  
+
+
 This project focuses on classifying potato leaves using Jetson Inference and the Imagente dataset. The goal is to develop a model that can accurately classify different types of potato leaves, which can be useful in agricultural applications for disease detection and crop management.
-![Corn_Common_Rust (994)](https://github.com/saanvick1/Plant_disease_classifier/assets/95539800/15ed6071-0052-4486-bc1d-0ab71876031e)
+
 
 Requirements
 To run this project, you will need:
